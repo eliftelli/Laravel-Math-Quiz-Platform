@@ -46,4 +46,4 @@ A custom web platform developed for a Mathematics Teacher to manage student quiz
 *Note: Source code is private to protect client confidentiality.*
 
 ---
-© 2024-2025 Project by Elif Telli.
+© 2025-2026 Project by Elif Telli.
