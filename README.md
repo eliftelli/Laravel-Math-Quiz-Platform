@@ -5,8 +5,8 @@ A custom web platform developed for a Mathematics Teacher to manage student quiz
 ---
 
 ## 🛠 Tech Stack
-* **Backend:** Laravel (PHP)
-* **Admin Panel:** Filament PHP (Advanced CRUD & Resource Management)
+* **Backend:** Laravel 10 (PHP)
+* **Admin Panel:** Filament v2 PHP (Advanced CRUD & Resource Management)
 * **Frontend:** Bootstrap 5, Custom CSS, JavaScript
 * **Database:** MySQL
 * **Features:** Dynamic PDF Generation & Online Quiz Engine
